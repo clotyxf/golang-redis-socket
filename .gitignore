@@ -16,8 +16,6 @@
 
 .vscode/
 
-
-bin/
 pkg/
 log
 data
